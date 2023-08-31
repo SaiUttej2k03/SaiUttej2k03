@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaiUttej2k03
 - 👀 I’m interested in Coding and Dancing
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python and Java and have intermediate in C & C++
 - 💞️ I’m looking to collaborate on Projects based on AI AND ML
 - 📫 connect me in instagram k_sai_uttej
 
